@@ -1,0 +1,118 @@
+/*A ver qué tal me sale este beta*/
+html{
+    box-sizing: border-box;
+}
+*, *:before, *:after{
+
+    box-sizing: inherit;
+}
+
+body{
+
+    Color: black;
+    background-color: rgb(233, 236, 240);
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: center;
+}
+/*------------------------------------Loguito--------------------------------*/
+
+.Logo1{
+    float: left;
+}
+
+/*----------------------------------------Título(Encabezado)------------------------------------*/
+
+header{
+
+}
+
+header h1{
+
+}
+
+header h4{
+
+}
+
+/*-----------------------------------Pasos--------------------------------------*/
+
+.Pasos{
+
+    list-style-type: none;
+    padding: 50px;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    column-gap: 100px;
+    justify-content: center;
+
+}
+
+.Pasos h3{
+
+    
+    display: inline-flex;
+    background-color: rgb(150, 150, 150);
+    padding: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+   
+     
+
+}
+
+.Pasos h3:hover{
+    color:rgb(126, 69, 69) ;
+}
+
+
+
+/*--------------------------------------------------WhatsApp------------------------------*/
+
+.Was{
+    border-color: blue;
+    border-width: thick;
+}
+
+.Was h2{
+
+}
+
+
+
+/*----------------------------------------------Marcas-----------------------------*/
+
+.Marcas {
+
+}
+
+.Marcas h2{
+
+}
+
+/*----------------------------------------------Mapa------------------------------------------*/
+
+
+
+
+/*---------------------------------------------Pie de página--------------------------------*/
+footer{
+
+
+}
+
+.Copyright{
+
+}
+
+
+.Icons{
+
+}
+
+.and-stuff{
+
+}
